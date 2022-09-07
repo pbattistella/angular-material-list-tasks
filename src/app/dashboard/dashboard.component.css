@@ -1,0 +1,10 @@
+.card {
+    min-width: 80%;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    max-height: 500px;
+    min-width: 100%;
+}
